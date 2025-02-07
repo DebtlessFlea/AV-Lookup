@@ -1,3 +1,6 @@
+> [!NOTE]
+> You may need to press "More info > Run anyway" when running the program for the first time.
+
 # Antivirus Detection Tool
 
 ## Description
