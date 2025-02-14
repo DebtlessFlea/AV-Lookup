@@ -1,12 +1,10 @@
 > [!NOTE]
 > You may need to press "More info > Run anyway" when running the program for the first time.
 
-# Antivirus Detection Tool
+## 📋 Description
+The **AV-Lookup** is a simple batch script designed to scan your system for installed antivirus software. It checks common installation paths for popular antivirus programs and displays the results in a clean and easy-to-read format.
 
-## Description
-The **Antivirus Detection Tool** is a simple batch script designed to scan your system for installed antivirus software. It checks common installation paths for popular antivirus programs and displays the results in a clean and easy-to-read format.
-
-## Supported Antivirus Programs:
+## 🔍 Supported Antivirus Programs:
 - Windows Defender
 - Norton Antivirus
 - McAfee Antivirus
@@ -27,7 +25,7 @@ The **Antivirus Detection Tool** is a simple batch script designed to scan your 
 - Fortinet Antivirus
 - ZoneAlarm Antivirus
 
-## How to Use
+## ❓ How to Use
 
 ### Prerequisites:
 - Windows operating system.
