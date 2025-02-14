@@ -31,11 +31,8 @@ The **Antivirus Detection Tool** is a simple batch script designed to scan your 
 
 ### Prerequisites:
 - Windows operating system.
-- Administrator privileges (required to access system directories and registry).
 
 ### Steps:
 1. Download or clone this repository to your local machine.
 2. Open the batch script file `av-lookup.bat`.
-3. **Run the script as Administrator**:
-   - Right-click on the batch file and select **Run as Administrator**.
-4. The script will scan your system for the listed antivirus programs and display the results in the terminal.
+3. The script will scan your system for the listed antivirus programs and display the results in the terminal.
