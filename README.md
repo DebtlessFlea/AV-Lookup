@@ -32,5 +32,5 @@ The **AV-Lookup** is a simple batch script designed to scan your system for inst
 
 ### Steps:
 1. Download or clone this repository to your local machine.
-2. Open `av-lookup.bat`.
+2. Open `AV-Lookup.bat`.
 3. The script will scan your system for the listed antivirus programs and display the results in the terminal.
