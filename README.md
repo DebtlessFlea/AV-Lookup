@@ -1,5 +1,5 @@
 > [!NOTE]
-> You may need to press "More info > Run anyway" when running the program for the first time.
+> You may need to press "**More info > Run anyway**" when running the program for the first time.
 
 ## 📋 Description
 The **AV-Lookup** is a simple batch script designed to scan your system for installed antivirus software. It checks common installation paths for popular antivirus programs and displays the results in a clean and easy-to-read format.
