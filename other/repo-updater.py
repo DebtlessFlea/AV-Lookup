@@ -6,7 +6,7 @@ import shutil
 import filecmp
 
 GITHUB_USER = "debtlessflea"
-REPO_NAME = "does-the-link-work"
+REPO_NAME = "AV-Lookup"
 BRANCH = "main"  # or "master"
 
 def download_repo_zip():
