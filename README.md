@@ -5,25 +5,31 @@
 The **AV-Lookup** is a simple batch script designed to scan your system for installed antivirus software. It checks common installation paths for popular antivirus programs and displays the results in a clean and easy-to-read format.
 
 ## 🔍 Supported Antivirus Programs:
-- Windows Defender
-- Norton Antivirus
-- McAfee Antivirus
-- Kaspersky Antivirus
-- Avast Antivirus
-- AVG Antivirus
-- Bitdefender Antivirus
-- Sophos Antivirus
-- Trend Micro Antivirus
-- ESET Antivirus
-- Webroot Antivirus
-- Comodo Antivirus
-- Avira Antivirus
-- F-Secure Antivirus
-- Panda Antivirus
-- Malwarebytes Antivirus
-- Total Defense Antivirus
-- Fortinet Antivirus
-- ZoneAlarm Antivirus
+- Microsoft Defender Antivirus
+- Microsoft Defender for Endpoint (EDR)
+- ESET
+- Kaspersky
+- Bitdefender
+- Norton
+- McAfee / Trellix
+- Avast
+- AVG
+- Avira
+- Sophos
+- Trend Micro
+- Webroot
+- Malwarebytes
+- F-Secure / WithSecure
+- Panda / WatchGuard
+- Comodo
+- ZoneAlarm
+- Symantec Endpoint Protection
+- CrowdStrike Falcon (EDR)
+- SentinelOne (EDR)
+- VMware Carbon Black (EDR)
+- Cortex XDR (EDR)
+- Cylance (EDR)
+- Elastic Endpoint (EDR)
 
 ## ❓ How to Use
 
